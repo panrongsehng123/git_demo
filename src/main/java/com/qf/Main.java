@@ -11,6 +11,7 @@ public class Main {
         System.out.println("hello git");
         System.out.println("hello github");
         System.out.println("我是");
+        System.out.println("你的我的");
     }
 
 }
